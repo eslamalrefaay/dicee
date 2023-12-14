@@ -26,8 +26,8 @@ p{
 }
 button{
     position: absolute;
-    bottom: 200px;
-    width: 200px;
+    bottom: 125px;
+    width: 150px;
     padding: 20px;
     border-radius: 15px;
     background-color: orangered;
@@ -41,5 +41,5 @@ button{
     align-items: center;
  }
 h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
